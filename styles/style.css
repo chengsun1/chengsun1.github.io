@@ -1,3 +1,17 @@
 p {
-    color:red;
+    color: darkgreen;
+    width: 500px;
+    border: 1px solid black;
+    font-size: 16px;
+    line-height: 2;
+    letter_spacing: 1px;
+    text-align: center;
+}
+
+
+html {
+    font-size: 11px;
+    font-family: "Mukta", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
